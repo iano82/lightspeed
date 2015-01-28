@@ -9,5 +9,20 @@
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         Tags: black, white, light, two-columns, left-sidebar, right-sidebar, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, featured-images, full-width-template, threaded-comments
- Text Domain:  twenty-fifteen-child
+ Text Domain:  storefront-child
 */
+
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
+body,button,input,select,textarea {
+  color: #787E87;
+  font-family: "Oswald", sans-serif;
+  line-height: 1.618;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Oswqald", sans-serif;
+  clear: both;
+  font-weight: 700;
+  margin: 0 0 .618em;
+  color: #484c51; }
